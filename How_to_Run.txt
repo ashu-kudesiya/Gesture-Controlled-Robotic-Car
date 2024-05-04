@@ -1,0 +1,12 @@
+1. Firstly activate virtual enviornment 
+Go to Terminal    ->    New Terminal   ->     +     ->    Command Prompt    ->     Now Type  
+
+conda activate myenv\ 
+
+
+2. When enviornment gets activate then Type
+
+python src/Components/Main.py
+
+
+3. Run

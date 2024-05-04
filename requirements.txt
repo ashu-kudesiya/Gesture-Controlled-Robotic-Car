@@ -1,0 +1,4 @@
+opencv-python == 4.9.0.80
+cvzone == 1.6.1
+pyserial == 3.5
+mediapipe == 0.10.11
