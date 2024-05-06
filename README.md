@@ -21,7 +21,7 @@ This project showcases a **Gesture Controlled Robotic Car** designed to navigate
    - Gesture Mapping and Command Logic
 
 ## Demo
-Check out a demo of our Gesture Controlled Robotic Car in action: Video.mp4
+Check out a demo of our Gesture Controlled Robotic Car in action: [https://github.com/ashu-kudesiya/Gesture-Controlled-Robotic-Car/blob/main/Video.mp4]
 
 ## Contributors
 - [Your Name] - Project Lead and Software Developer
