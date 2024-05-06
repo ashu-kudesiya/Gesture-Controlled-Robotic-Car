@@ -24,9 +24,10 @@ This project showcases a **Gesture Controlled Robotic Car** designed to navigate
 Check out a demo of our Gesture Controlled Robotic Car in action: [Demo Video](https://github.com/ashu-kudesiya/Gesture-Controlled-Robotic-Car/blob/main/Video.mp4)
 
 ## Contributors
-- [Your Name] - Project Lead and Software Developer
-- [Team Member 1 Name] - Hardware Specialist
-- [Team Member 2 Name] - Gesture Recognition Algorithm Developer
+- [Himanshu Kudesiya](https://github.com/ashu-kudesiya)
+- [Ayush Dhabale](https://github.com/Ayush-dhabale)
+- [Nilima Barde]
+- [Jaiansh Bora]
 
 ## Future Improvements
 - Implement more complex gesture commands.
@@ -34,11 +35,4 @@ Check out a demo of our Gesture Controlled Robotic Car in action: [Demo Video](h
 - Integrate with a smartphone app for remote control.
 
 ## Contact
-For any questions or collaborations, feel free to contact us at [Your Email Address].
-
-## Acknowledgements
-- We would like to thank [Name of Library/Tool] for their contribution to this project.
-- Special thanks to [Mentor/Advisor Name] for their guidance and support.
-
-## License
-This project is licensed under the [License Name]. See the [LICENSE.md](link to license file) file for details.
+For any questions or collaborations, feel free to contact us at [My Email](ashu.kudesiya@gmail.com).
