@@ -1,7 +1,7 @@
 # Gesture-Controlled Robotic Car Project
 
 ## Introduction
-This project showcases a gesture-controlled robotic car designed to navigate and perform actions based on user gestures. The car is built using [mention hardware components] and utilizes [mention technologies used, e.g., Arduino, sensors, motor drivers, etc.].
+This project showcases a ## Gesture Controlled Robotic Car designed to navigate and perform actions based on user hand gestures. The car is built using [mention hardware components] and utilizes [mention technologies used, e.g., Arduino, sensors, motor drivers, etc.].
 
 ## Features
 - Recognizes hand gestures for controlling movement.
