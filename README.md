@@ -28,7 +28,7 @@ Check out a demo of our Gesture Controlled Robotic Car in action: [Demo Video](h
 ## Contributors
 - [Himanshu Kudesiya](https://github.com/ashu-kudesiya)
 - [Ayush Dhabale](https://github.com/Ayush-dhabale)
-- [Nilima Barde]
+- [Nilima Barde](https://github.com/NilimaBarde)
 - [Jaiansh Bora]
 
 ## Future Improvements
