@@ -1,16 +1,20 @@
 # Gesture-Controlled Robotic Car Project
 
 ## Introduction
-This project showcases a ## Gesture Controlled Robotic Car designed to navigate and perform actions based on user hand gestures. The car is built using [mention hardware components] and utilizes [mention technologies used, e.g., Arduino, sensors, motor drivers, etc.].
+This project showcases a **Gesture Controlled Robotic Car** designed to navigate and perform actions based on user hand gestures. 
 
 ## Features
 - Recognizes hand gestures for controlling movement.
-- Implements obstacle detection and avoidance.
 - Provides a user-friendly interface for gesture recognition.
 
 ## Installation
 1. **Hardware Setup:**
-   - [List hardware components and connections required]
+   - Microcontrollers and Processors
+   - Sensors
+   - Actuators
+   - Communication Modules
+![image](https://github.com/ashu-kudesiya/Gesture-Controlled-Robotic-Car/assets/124152041/e9d6e7d3-a96c-420a-b10d-50e09e0dfc3a)
+
 2. **Software Installation:**
    - Clone the project repository from [GitHub repository link].
    - Install the necessary libraries and dependencies [if any].
