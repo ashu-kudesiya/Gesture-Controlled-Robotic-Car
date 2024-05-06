@@ -1,7 +1,9 @@
 # Gesture-Controlled Robotic Car Project
 
 ## Introduction
-This project showcases a **Gesture Controlled Robotic Car** designed to navigate and perform actions based on user hand gestures. 
+A ***Gesture Control Robotic Car*** is a cutting-edge and innovative vehicle that can be controlled through hand gestures and motions, typically without the need for physical controllers like joysticks or remote controls.
+This technology combines robotics, computer vision, and gesture recognition systems to create a vehicle that responds to human gestures, making it a fascinating and user-friendly device with various applications.
+The human hand motions are read by computer camera, this hand gestures or motion are used as data input to control the robotic car.
 
 ## Features
 - Recognizes hand gestures for controlling movement.
