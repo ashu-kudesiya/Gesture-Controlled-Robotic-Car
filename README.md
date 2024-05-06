@@ -23,7 +23,7 @@ The human hand motions are read by ***computer camera***, this ***hand gestures*
    - Gesture Mapping and Command Logic
 
 ## Demo
-Check out a demo of our Gesture Controlled Robotic Car in action: [Demo Video](https://github.com/ashu-kudesiya/Gesture-Controlled-Robotic-Car/blob/main/Video.mp4)
+Check out a demo of our Gesture Controlled Robotic Car in action: [Demo Video](https://drive.google.com/file/d/1pORUjz6Nt7t2xpFIetJy1X6l31uUOgae/view?usp=drive_link)
 
 ## Contributors
 - [Himanshu Kudesiya](https://github.com/ashu-kudesiya)
