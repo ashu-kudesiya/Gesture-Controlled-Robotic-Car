@@ -20,19 +20,8 @@ This project showcases a **Gesture Controlled Robotic Car** designed to navigate
    - Operating System
    - Gesture Mapping and Command Logic
 
-## Usage
-1. **Starting the Robotic Car:**
-   - Connect the hardware components as per the installation instructions.
-   - Upload the code to the microcontroller.
-2. **Gesture Recognition:**
-   - Perform gestures [list gestures and corresponding actions].
-3. **Obstacle Avoidance:**
-   - The car will automatically detect obstacles and change its path.
-4. **Terminating the Program:**
-   - Disconnect the power source from the car to stop the program.
-
 ## Demo
-Check out a demo of our gesture-controlled robotic car in action: [Demo Video Link].
+Check out a demo of our Gesture Controlled Robotic Car in action: Video.mp4
 
 ## Contributors
 - [Your Name] - Project Lead and Software Developer
