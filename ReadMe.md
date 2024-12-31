@@ -1,4 +1,9 @@
-# Gesture-Controlled Robotic Car Project
+
+
+<img src="https://github.com/ashu-kudesiya/Gesture-Controlled-Robotic-Car/blob/main/Output/Photo.jpg" width="222">
+
+
+# Gesture Controlled Robotic Car Project
 
 ## Introduction
 A ***Gesture Control Robotic Car*** is a cutting-edge and innovative vehicle that can be controlled through ***hand gestures***, typically without the need for physical controllers like joysticks or remote controls.
